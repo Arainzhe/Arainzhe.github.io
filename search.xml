@@ -127,4 +127,39 @@
         <tag>Hexo命令</tag>
       </tags>
   </entry>
+  <entry>
+    <title>v2ray相关知识</title>
+    <url>/2021/09/06/%E4%BB%A3%E7%90%86%E4%B8%8A%E7%BD%91/</url>
+    <content><![CDATA[<h2 id="v2ray"><a href="#v2ray" class="headerlink" title="v2ray"></a>v2ray</h2><p>这里简单记录下使用v2ray作为代理上网</p>
+<p>一：PC</p>
+<p>​    PC端，首先我们去<a href="https://github.com/v2fly/v2ray-core%EF%BC%8CReleases%E4%B8%8B%E8%BD%BD%E6%88%91%E4%BB%AC%E9%9C%80%E8%A6%81%E7%9A%84exe%E6%96%87%E4%BB%B6%EF%BC%8C">https://github.com/v2fly/v2ray-core，Releases下载我们需要的exe文件，</a></p>
+<p> 如下图所示：</p>
+<p><img src="https://gitee.com/Arainzhe/blogimage/raw/master/img/v2ray/v2ray_1.png" alt="v2ray_1.png"></p>
+<p>下载后双击运行即可。</p>
+<p>打开之后我们点击订阅设置。</p>
+<p><img src="https://gitee.com/Arainzhe/blogimage/raw/master/img/v2ray/v2ray_2.png" alt="v2ray_2.png"></p>
+<p>接下来就是把我们要的订阅地址添加进去即可</p>
+<p><img src="https://gitee.com/Arainzhe/blogimage/raw/master/img/v2ray/v2ray_3.png" alt="v2ray_3.png"></p>
+<p>关于代理模式，我们可以选择下面这几种。</p>
+<p><img src="https://gitee.com/Arainzhe/blogimage/raw/master/img/v2ray/v2ray_4.png" alt="v2ray_4.png"></p>
+<p>现在okay，我们的东西添加完毕之后，测试服务器网速，挑选连接。愉快进行上网（每次启动之后记得点击更新订阅）</p>
+<p><img src="https://gitee.com/Arainzhe/blogimage/raw/master/img/v2ray/v2ray_5.png" alt="v2ray_5.png"></p>
+<p>二：关于移动端，</p>
+<p><a href="https://github.com/2dust/v2rayNG/releases">V2RayNG</a> 是一个基于 V2Ray 内核的 Android 应用，目前最新版本支持v2ray、SS、Socks、Trojan节点。这款APP操作简单，功能非常实用，支持的节点比较全面。apk下载地址：<a href="https://github.com/2dust/v2rayNG/releases%E4%B8%8B%E8%BD%BD%E4%B9%8B%E5%90%8E%EF%BC%8C%E5%AE%89%E8%A3%85%EF%BC%8C">https://github.com/2dust/v2rayNG/releases下载之后，安装，</a></p>
+<p>打开v2rayNG，点击右上角加号添加节点。</p>
+<p><img src="https://gitee.com/Arainzhe/blogimage/raw/master/img/v2ray/v2ray_6.png" alt="v2ray_6.png"></p>
+<p>然后添加订阅。</p>
+<p><img src="https://gitee.com/Arainzhe/blogimage/raw/master/img/v2ray/v2ray_7.png" alt="v2ray_7.png"></p>
+<p><img src="https://gitee.com/Arainzhe/blogimage/raw/master/img/v2ray/v2ray_8.png" alt="v2ray_8.png"></p>
+<p><img src="https://gitee.com/Arainzhe/blogimage/raw/master/img/v2ray/v2ray_9.png" alt="v2ray_9.png"></p>
+<p><img src="https://gitee.com/Arainzhe/blogimage/raw/master/img/v2ray/v2ray_10.png" alt="v2ray_10.png"></p>
+<p>最后，同样的，每次使用之前建议先做更新订阅操作。</p>
+]]></content>
+      <categories>
+        <category>科学上网</category>
+      </categories>
+      <tags>
+        <tag>代理上网</tag>
+      </tags>
+  </entry>
 </search>
